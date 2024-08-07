@@ -37,7 +37,7 @@ def cv(datasetId = None, network = None, nGPU = None,batchSize=16,numEpochs=200,
     config['preloadData'] = False
 
     # Random seed
-    config['randSeed']  = 20181612 #20190821
+    config['randSeed']  = 20181612 
     
     # Network related details
     config['network'] = network
