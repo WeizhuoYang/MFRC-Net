@@ -165,7 +165,6 @@ class MixedConv2d(nn.ModuleDict):
         x = torch.cat(x_out, 1)
         return x
 
-#%% MFRCNet
 class ChannelShuffle(nn.Module):
     def __init__(self, groups):
         super(ChannelShuffle, self).__init__()
