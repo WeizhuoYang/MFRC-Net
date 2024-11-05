@@ -3,3 +3,4 @@
 This is the PyTorch implementation of the MFRC-Net architecture for EEG-BCI classification.
 # Acknowlegement
 
+
