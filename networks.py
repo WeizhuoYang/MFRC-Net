@@ -256,8 +256,3 @@ class MFRCNet(nn.Module):
         x = self.temporalLayer(x)
         x = torch.flatten(x, start_dim=1)
         return x.size()
-
-if __name__ == "__main__":
-    net = MFRCNet(nChan=22, nTime=1000).cuda()
-    print(net)
-    summary(net, (9, 22, 1000))
