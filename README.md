@@ -5,4 +5,4 @@ This is the PyTorch implementation of the MFRC-Net architecture for EEG-BCI clas
 #
 I will upload the other files after they are sorted out
 
-![Uploading MFRC-Net.jpg…]()
+![image](https://github.com/WeizhuoYang/MFRC-Net/blob/main/MFRC-Net.jpg)
