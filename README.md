@@ -5,5 +5,3 @@ This is the PyTorch implementation of the MFRC-Net architecture for EEG-BCI clas
 #
 I will upload the other files after they are sorted out
 
-## MFRC-Net: Multi-Scale Feature Residual Convolutional Neural Network for Motor Imagery Decording
-![Uploading 9.jpg…]()
